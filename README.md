@@ -1,2 +1,2 @@
 # Breast_cancer_detection
-Finding the cancer type using Logistic regression with an accuracy of 97%
+Detecting the cancer stage as benign and malignant type using classification algorithm
